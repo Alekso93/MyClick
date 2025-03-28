@@ -1,0 +1,402 @@
+2025-03-03 21:35:23.9335|0|DEBUG|Eshop.Web.Program|init main 
+2025-03-03 21:35:25.9313|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewStart.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/Register.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Products/AddProductToCard.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Products/Create.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Products/Delete.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Products/Details.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Products/Edit.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Products/Index.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/_LoginPartial.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/ShoppingCard/Index.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/AccessDenied.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ConfirmEmail.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ExternalLogin.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ForgotPassword.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Lockout.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Login.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/LoginWith2fa.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Logout.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Email.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Index.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_Layout.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ViewStart.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Register.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResetPassword.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/_StatusMessage.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/_ViewImports.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Error.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_Layout.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewImports.cshtml'. 
+2025-03-03 21:35:25.9459|3|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewStart.cshtml'. 
+2025-03-03 21:35:25.9611|12|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2025-03-03 21:35:26.0116|63|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\aleks\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-03-03 21:35:26.2644|1|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting 
+2025-03-03 21:35:26.2644|37|DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\aleks\AppData\Local\ASP.NET\DataProtection-Keys\key-63a8cd24-18ac-4b5c-9f55-41c027d7921f.xml'. 
+2025-03-03 21:35:26.3071|18|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {63a8cd24-18ac-4b5c-9f55-41c027d7921f}. 
+2025-03-03 21:35:26.3271|13|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver|Considering key {63a8cd24-18ac-4b5c-9f55-41c027d7921f} with expiration date 2025-04-24 15:43:21Z as default key. 
+2025-03-03 21:35:26.3271|0|DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2025-03-03 21:35:26.3271|51|DEBUG|Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor|Decrypting secret element using Windows DPAPI. 
+2025-03-03 21:35:26.3271|0|DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2025-03-03 21:35:26.3271|4|DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC. 
+2025-03-03 21:35:26.3271|3|DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC. 
+2025-03-03 21:35:26.3271|2|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider|Using key {63a8cd24-18ac-4b5c-9f55-41c027d7921f} as the default key. 
+2025-03-03 21:35:26.3434|65|DEBUG|Microsoft.AspNetCore.DataProtection.Internal.DataProtectionHostedService|Key ring with default key {63a8cd24-18ac-4b5c-9f55-41c027d7921f} was loaded during application startup. 
+2025-03-03 21:35:26.6529|39|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HNAQIBN52P5R" accepted. 
+2025-03-03 21:35:26.6529|39|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HNAQIBN52P5Q" accepted. 
+2025-03-03 21:35:26.6529|6|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HNAQIBN52P5R" received FIN. 
+2025-03-03 21:35:26.6551|1|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HNAQIBN52P5R" started. 
+2025-03-03 21:35:26.6551|1|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HNAQIBN52P5Q" started. 
+2025-03-03 21:35:26.6551|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7234 
+2025-03-03 21:35:26.6551|6|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HNAQIBN52P5Q" received FIN. 
+2025-03-03 21:35:26.6551|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5299 
+2025-03-03 21:35:26.6551|13|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Eshop.Web 
+2025-03-03 21:35:26.6551|13|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2025-03-03 21:35:26.6551|13|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2025-03-03 21:35:26.6551|13|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2025-03-03 21:35:26.6976|1|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware|Failed to authenticate HTTPS connection. System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-03-03 21:35:26.6976|1|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware|Failed to authenticate HTTPS connection. System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-03-03 21:35:27.0590|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2025-03-03 21:35:27.0741|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2025-03-03 21:35:27.0741|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\aleks\source\repos\EShopApplication\Eshop.Web 
+2025-03-03 21:35:27.0741|2|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started 
+2025-03-03 21:35:27.0794|2|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HNAQIBN52P5Q" stopped. 
+2025-03-03 21:35:27.0794|2|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HNAQIBN52P5R" stopped. 
+2025-03-03 21:35:27.0794|7|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HNAQIBN52P5R" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2025-03-03 21:35:27.0794|7|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HNAQIBN52P5Q" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2025-03-03 21:35:27.2537|39|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HNAQIBN52P5S" accepted. 
+2025-03-03 21:35:27.2537|1|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HNAQIBN52P5S" started. 
+2025-03-03 21:35:27.3584|3|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware|Connection 0HNAQIBN52P5S established using the following protocol: Tls13 
+2025-03-03 21:35:27.4148|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2025-03-03 21:35:27.4148|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2025-03-03 21:35:27.4204|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" received SETTINGS frame for stream ID 0 with length 24 and flags NONE. 
+2025-03-03 21:35:27.4204|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2025-03-03 21:35:27.4204|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" received WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2025-03-03 21:35:27.4204|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" received HEADERS frame for stream ID 1 with length 1384 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-03-03 21:35:27.4713|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" received SETTINGS frame for stream ID 0 with length 0 and flags ACK. 
+2025-03-03 21:35:27.5579|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7234/ - - - 
+2025-03-03 21:35:27.7334|0|DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed. 
+2025-03-03 21:35:27.7334|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2025-03-03 21:35:27.7804|5|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing unprotect operation to key {63a8cd24-18ac-4b5c-9f55-41c027d7921f} with purposes ('C:\Users\aleks\source\repos\EShopApplication\Eshop.Web\', 'Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationMiddleware', 'Identity.Application', 'v2'). 
+2025-03-03 21:35:28.0294|10401|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|An 'IServiceProvider' was created for internal use by Entity Framework. 
+2025-03-03 21:35:28.1606|8|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was successfully authenticated. 
+2025-03-03 21:35:28.1606|4|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path / does not match a supported file type 
+2025-03-03 21:35:28.2217|1001|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/' 
+2025-03-03 21:35:28.2217|1005|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'Eshop.Web.Controllers.HomeController.Index (Eshop.Web)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/' 
+2025-03-03 21:35:28.2217|1|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Eshop.Web.Controllers.HomeController.Index (Eshop.Web)' 
+2025-03-03 21:35:28.2217|8|TRACE|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2025-03-03 21:35:28.2217|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Eshop.Web.Controllers.HomeController.Index (Eshop.Web)' 
+2025-03-03 21:35:28.2698|102|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Eshop.Web.Controllers.HomeController (Eshop.Web). 
+2025-03-03 21:35:28.2698|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2025-03-03 21:35:28.2698|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-03-03 21:35:28.2698|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2025-03-03 21:35:28.2698|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2025-03-03 21:35:28.2698|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-03-03 21:35:28.2698|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:28.2698|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:28.2698|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller Eshop.Web.Controllers.HomeController (Eshop.Web) 
+2025-03-03 21:35:28.2827|2|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller Eshop.Web.Controllers.HomeController (Eshop.Web) 
+2025-03-03 21:35:28.2827|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-03-03 21:35:28.2827|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-03-03 21:35:28.2827|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-03-03 21:35:28.2827|101|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method Eshop.Web.Controllers.HomeController.Index (Eshop.Web) - Validation state: Valid 
+2025-03-03 21:35:28.2993|103|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method Eshop.Web.Controllers.HomeController.Index (Eshop.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.8701ms. 
+2025-03-03 21:35:28.2993|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-03-03 21:35:28.2993|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-03-03 21:35:28.2993|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-03-03 21:35:28.2993|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:28.2993|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:28.2993|5|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2025-03-03 21:35:28.3111|1|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Index' in controller 'Home'. 
+2025-03-03 21:35:28.3111|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Home/Index.cshtml'. 
+2025-03-03 21:35:28.3111|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Home/_ViewStart.cshtml'. 
+2025-03-03 21:35:28.3111|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/_ViewStart.cshtml'. 
+2025-03-03 21:35:28.3111|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/_ViewStart.cshtml'. 
+2025-03-03 21:35:28.3111|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2025-03-03 21:35:28.3361|2|DEBUG|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view path '/Views/Home/Index.cshtml' was found in 17.163ms. 
+2025-03-03 21:35:28.3861|1|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view '_Layout' in controller 'Home'. 
+2025-03-03 21:35:28.3861|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Home/_Layout.cshtml'. 
+2025-03-03 21:35:28.3861|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/_Layout.cshtml'. 
+2025-03-03 21:35:28.5049|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Index],controller=[Home]) 
+2025-03-03 21:35:28.5049|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and  
+2025-03-03 21:35:28.5049|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result / 
+2025-03-03 21:35:28.5158|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[ShoppingCard]) 
+2025-03-03 21:35:28.5158|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /ShoppingCard and  
+2025-03-03 21:35:28.5158|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /ShoppingCard 
+2025-03-03 21:35:28.5158|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Index],controller=[Products]) 
+2025-03-03 21:35:28.5158|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Products and  
+2025-03-03 21:35:28.5158|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Products 
+2025-03-03 21:35:28.5158|1|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view '_LoginPartial' in controller 'Home'. 
+2025-03-03 21:35:28.5158|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Home/_LoginPartial.cshtml'. 
+2025-03-03 21:35:28.5158|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/_LoginPartial.cshtml'. 
+2025-03-03 21:35:28.5304|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Account/Manage/Index, Route: {controller=Home}/{action=Index}/{id?} for address (area=[Identity],page=[/Account/Manage/Index]) 
+2025-03-03 21:35:28.5304|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Identity/Account/Manage for /Account/Manage/Index resulting in /Identity/Account/Manage and  
+2025-03-03 21:35:28.5304|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Account/Manage/Index, Route: {controller=Home}/{action=Index}/{id?} with result /Identity/Account/Manage 
+2025-03-03 21:35:28.5304|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Index],controller=[Home]) 
+2025-03-03 21:35:28.5304|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and  
+2025-03-03 21:35:28.5304|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result / 
+2025-03-03 21:35:28.5304|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Account/Logout, Route: {controller=Home}/{action=Index}/{id?} for address (returnUrl=[/],area=[Identity],page=[/Account/Logout]) 
+2025-03-03 21:35:28.5304|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Identity/Account/Logout for /Account/Logout resulting in /Identity/Account/Logout and ?returnUrl=%2F 
+2025-03-03 21:35:28.5304|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Account/Logout, Route: {controller=Home}/{action=Index}/{id?} with result /Identity/Account/Logout?returnUrl=%2F 
+2025-03-03 21:35:28.5304|5|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing unprotect operation to key {63a8cd24-18ac-4b5c-9f55-41c027d7921f} with purposes ('C:\Users\aleks\source\repos\EShopApplication\Eshop.Web\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2025-03-03 21:35:28.5304|31|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing protect operation to key {63a8cd24-18ac-4b5c-9f55-41c027d7921f} with purposes ('C:\Users\aleks\source\repos\EShopApplication\Eshop.Web\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2025-03-03 21:35:28.5459|6|DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|An antiforgery cookie token was reused. 
+2025-03-03 21:35:28.5459|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Privacy],controller=[Home]) 
+2025-03-03 21:35:28.5459|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and  
+2025-03-03 21:35:28.5459|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Home/Privacy 
+2025-03-03 21:35:28.5459|1|DEBUG|Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware|Response markup is scheduled to include Browser Link script injection. 
+2025-03-03 21:35:28.5666|1|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2025-03-03 21:35:28.5666|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 266.5937ms. 
+2025-03-03 21:35:28.5666|6|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2025-03-03 21:35:28.5666|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:28.5666|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:28.5666|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending HEADERS frame for stream ID 1 with length 104 and flags END_HEADERS. 
+2025-03-03 21:35:28.5666|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:28.5666|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:28.5666|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 1 with length 3668 and flags NONE. 
+2025-03-03 21:35:28.5666|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 1 with length 83 and flags NONE. 
+2025-03-03 21:35:28.5666|105|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Eshop.Web.Controllers.HomeController.Index (Eshop.Web) in 302.3441ms 
+2025-03-03 21:35:28.5666|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Eshop.Web.Controllers.HomeController.Index (Eshop.Web)' 
+2025-03-03 21:35:28.5770|2|DEBUG|Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware|Response markup was updated to include Browser Link script injection. 
+2025-03-03 21:35:28.5770|2|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2025-03-03 21:35:28.5770|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 1 with length 0 and flags END_STREAM. 
+2025-03-03 21:35:28.5770|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7234/ - 200 - text/html;+charset=utf-8 1042.7675ms 
+2025-03-03 21:35:28.6501|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" received HEADERS frame for stream ID 3 with length 107 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-03-03 21:35:28.6501|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" received HEADERS frame for stream ID 5 with length 62 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-03-03 21:35:28.6501|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - - - 
+2025-03-03 21:35:28.6501|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - - - 
+2025-03-03 21:35:28.6704|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending HEADERS frame for stream ID 3 with length 60 and flags END_HEADERS. 
+2025-03-03 21:35:28.6706|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 3 with length 13770 and flags NONE. 
+2025-03-03 21:35:28.6706|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 3 with length 0 and flags END_STREAM. 
+2025-03-03 21:35:28.6706|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript;+charset=utf-8 25.1681ms 
+2025-03-03 21:35:28.7149|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending HEADERS frame for stream ID 5 with length 149 and flags END_HEADERS. 
+2025-03-03 21:35:28.7149|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 9986 and flags NONE. 
+2025-03-03 21:35:28.7203|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-03-03 21:35:28.7203|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-03-03 21:35:28.7203|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-03-03 21:35:28.7203|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-03-03 21:35:28.7203|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-03-03 21:35:28.7203|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-03-03 21:35:28.7203|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-03-03 21:35:28.7203|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-03-03 21:35:28.7203|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-03-03 21:35:28.7203|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-03-03 21:35:28.7203|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-03-03 21:35:28.7336|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-03-03 21:35:28.7336|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-03-03 21:35:28.7336|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 10240 and flags NONE. 
+2025-03-03 21:35:28.7336|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 1806 and flags NONE. 
+2025-03-03 21:35:28.7336|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 5 with length 0 and flags END_STREAM. 
+2025-03-03 21:35:28.7336|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 83.4738ms 
+2025-03-03 21:35:31.9814|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" received HEADERS frame for stream ID 7 with length 36 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-03-03 21:35:31.9841|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7234/Products - - - 
+2025-03-03 21:35:31.9841|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2025-03-03 21:35:31.9841|5|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing unprotect operation to key {63a8cd24-18ac-4b5c-9f55-41c027d7921f} with purposes ('C:\Users\aleks\source\repos\EShopApplication\Eshop.Web\', 'Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationMiddleware', 'Identity.Application', 'v2'). 
+2025-03-03 21:35:32.0131|8|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was successfully authenticated. 
+2025-03-03 21:35:32.0131|4|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /Products does not match a supported file type 
+2025-03-03 21:35:32.0161|1001|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/Products' 
+2025-03-03 21:35:32.0161|1005|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'Eshop.Web.Controllers.ProductsController.Index (Eshop.Web)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Products' 
+2025-03-03 21:35:32.0161|1|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'Eshop.Web.Controllers.ProductsController.Index (Eshop.Web)' 
+2025-03-03 21:35:32.0161|8|TRACE|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|The endpoint does not specify the IRequestSizeLimitMetadata. 
+2025-03-03 21:35:32.0161|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Eshop.Web.Controllers.ProductsController.Index (Eshop.Web)' 
+2025-03-03 21:35:32.0161|102|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Products", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Eshop.Web.Controllers.ProductsController (Eshop.Web). 
+2025-03-03 21:35:32.0161|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2025-03-03 21:35:32.0161|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-03-03 21:35:32.0161|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2025-03-03 21:35:32.0161|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2025-03-03 21:35:32.0161|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2025-03-03 21:35:32.0161|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:32.0161|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:32.0161|1|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller Eshop.Web.Controllers.ProductsController (Eshop.Web) 
+2025-03-03 21:35:32.7005|10601|DEBUG|Microsoft.EntityFrameworkCore.Model|The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}. 
+2025-03-03 21:35:32.7005|10601|DEBUG|Microsoft.EntityFrameworkCore.Model|The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}. 
+2025-03-03 21:35:32.8320|10600|DEBUG|Microsoft.EntityFrameworkCore.Model.Validation|The property 'Order.UserId' was created in shadow state because there are no eligible CLR members with a matching name. 
+2025-03-03 21:35:33.0400|10403|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 8.0.12 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.12' with options: MigrationsAssembly=EShop.Repository  
+2025-03-03 21:35:33.0400|2|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller Eshop.Web.Controllers.ProductsController (Eshop.Web) 
+2025-03-03 21:35:33.0400|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-03-03 21:35:33.0400|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-03-03 21:35:33.0400|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-03-03 21:35:33.0400|101|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method Eshop.Web.Controllers.ProductsController.Index (Eshop.Web) - Validation state: Valid 
+2025-03-03 21:35:33.1363|10111|DEBUG|Microsoft.EntityFrameworkCore.Query|Compiling query expression: 
+'DbSet<Product>()' 
+2025-03-03 21:35:33.3153|10107|DEBUG|Microsoft.EntityFrameworkCore.Query|Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<Product>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: Product.Id (Guid) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: Product.ProductDescription (string) Required, 1], [Property: Product.ProductImage (string) Required, 2], [Property: Product.ProductName (string) Required, 3], [Property: Product.ProductPrice (int) Required, 4], [Property: Product.Rating (int) Required, 5] }
+        SELECT p.Id, p.ProductDescription, p.ProductImage, p.ProductName, p.ProductPrice, p.Rating
+        FROM Products AS p), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, Product>, 
+    Eshop.Web.Data.ApplicationDbContext, 
+    False, 
+    False, 
+    True
+)' 
+2025-03-03 21:35:33.3410|20005|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection. 
+2025-03-03 21:35:33.3703|20006|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (27ms). 
+2025-03-03 21:35:33.3703|20000|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'ShopDb' on server '(localdb)\mssqllocaldb'. 
+2025-03-03 21:35:33.8858|20001|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opened connection to database 'ShopDb' on server '(localdb)\mssqllocaldb'. 
+2025-03-03 21:35:33.8858|20103|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Creating DbCommand for 'ExecuteReader'. 
+2025-03-03 21:35:33.8948|20104|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Created DbCommand for 'ExecuteReader' (4ms). 
+2025-03-03 21:35:33.8948|20106|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Initialized DbCommand for 'ExecuteReader' (8ms). 
+2025-03-03 21:35:33.8948|20100|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[ProductDescription], [p].[ProductImage], [p].[ProductName], [p].[ProductPrice], [p].[Rating]
+FROM [Products] AS [p] 
+2025-03-03 21:35:33.9731|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (69ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [p].[Id], [p].[ProductDescription], [p].[ProductImage], [p].[ProductName], [p].[ProductPrice], [p].[Rating]
+FROM [Products] AS [p] 
+2025-03-03 21:35:34.0157|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationDbContext' started tracking 'Product' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2025-03-03 21:35:34.0436|10806|DEBUG|Microsoft.EntityFrameworkCore.ChangeTracking|Context 'ApplicationDbContext' started tracking 'Product' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values. 
+2025-03-03 21:35:34.0491|20301|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|Closing data reader to 'ShopDb' on server '(localdb)\mssqllocaldb'. 
+2025-03-03 21:35:34.0491|20300|DEBUG|Microsoft.EntityFrameworkCore.Database.Command|A data reader for 'ShopDb' on server '(localdb)\mssqllocaldb' is being disposed after spending 79ms reading results. 
+2025-03-03 21:35:34.0491|20002|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closing connection to database 'ShopDb' on server '(localdb)\mssqllocaldb'. 
+2025-03-03 21:35:34.0708|20003|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Closed connection to database 'ShopDb' on server '(localdb)\mssqllocaldb' (9ms). 
+2025-03-03 21:35:34.0708|103|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method Eshop.Web.Controllers.ProductsController.Index (Eshop.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1030.2965ms. 
+2025-03-03 21:35:34.0708|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-03-03 21:35:34.0708|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2025-03-03 21:35:34.0708|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2025-03-03 21:35:34.0708|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:34.0708|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:34.0708|5|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2025-03-03 21:35:34.0708|1|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Index' in controller 'Products'. 
+2025-03-03 21:35:34.0708|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Products/Index.cshtml'. 
+2025-03-03 21:35:34.0708|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Products/_ViewStart.cshtml'. 
+2025-03-03 21:35:34.0708|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/_ViewStart.cshtml'. 
+2025-03-03 21:35:34.0708|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/_ViewStart.cshtml'. 
+2025-03-03 21:35:34.0708|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2025-03-03 21:35:34.0708|2|DEBUG|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view path '/Views/Products/Index.cshtml' was found in 2.1422ms. 
+2025-03-03 21:35:34.0847|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Create],controller=[Products]) 
+2025-03-03 21:35:34.0847|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Products/Create and  
+2025-03-03 21:35:34.0847|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Products/Create 
+2025-03-03 21:35:34.0847|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (id=[4ca53623-25f3-4978-908f-a65642d77b50],action=[AddProductToCard],controller=[Products]) 
+2025-03-03 21:35:34.0847|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Products/AddProductToCard/4ca53623-25f3-4978-908f-a65642d77b50 and  
+2025-03-03 21:35:34.0847|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Products/AddProductToCard/4ca53623-25f3-4978-908f-a65642d77b50 
+2025-03-03 21:35:34.0847|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (id=[4ca53623-25f3-4978-908f-a65642d77b50],action=[Edit],controller=[Products]) 
+2025-03-03 21:35:34.0847|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Products/Edit/4ca53623-25f3-4978-908f-a65642d77b50 and  
+2025-03-03 21:35:34.0847|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Products/Edit/4ca53623-25f3-4978-908f-a65642d77b50 
+2025-03-03 21:35:34.0847|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (id=[b98c2c80-1da7-4a46-8156-b44f7b1bda4d],action=[AddProductToCard],controller=[Products]) 
+2025-03-03 21:35:34.0847|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Products/AddProductToCard/b98c2c80-1da7-4a46-8156-b44f7b1bda4d and  
+2025-03-03 21:35:34.0847|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Products/AddProductToCard/b98c2c80-1da7-4a46-8156-b44f7b1bda4d 
+2025-03-03 21:35:34.0847|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (id=[b98c2c80-1da7-4a46-8156-b44f7b1bda4d],action=[Edit],controller=[Products]) 
+2025-03-03 21:35:34.0847|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Products/Edit/b98c2c80-1da7-4a46-8156-b44f7b1bda4d and  
+2025-03-03 21:35:34.0847|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Products/Edit/b98c2c80-1da7-4a46-8156-b44f7b1bda4d 
+2025-03-03 21:35:34.0847|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/_Layout.cshtml'. 
+2025-03-03 21:35:34.0847|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Index],controller=[Home]) 
+2025-03-03 21:35:34.0847|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and  
+2025-03-03 21:35:34.0847|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result / 
+2025-03-03 21:35:34.0847|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (action=[Index],controller=[ShoppingCard]) 
+2025-03-03 21:35:34.0927|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /ShoppingCard and  
+2025-03-03 21:35:34.0927|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /ShoppingCard 
+2025-03-03 21:35:34.0927|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Index],controller=[Products]) 
+2025-03-03 21:35:34.0927|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Products and  
+2025-03-03 21:35:34.0927|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Products 
+2025-03-03 21:35:34.0927|1|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view '_LoginPartial' in controller 'Products'. 
+2025-03-03 21:35:34.0927|7|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Products/_LoginPartial.cshtml'. 
+2025-03-03 21:35:34.0927|5|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/_LoginPartial.cshtml'. 
+2025-03-03 21:35:34.0927|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Account/Manage/Index, Route: {controller=Home}/{action=Index}/{id?} for address (area=[Identity],page=[/Account/Manage/Index]) 
+2025-03-03 21:35:34.0927|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Identity/Account/Manage for /Account/Manage/Index resulting in /Identity/Account/Manage and  
+2025-03-03 21:35:34.0927|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Account/Manage/Index, Route: {controller=Home}/{action=Index}/{id?} with result /Identity/Account/Manage 
+2025-03-03 21:35:34.0927|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Index],controller=[Home]) 
+2025-03-03 21:35:34.0927|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and  
+2025-03-03 21:35:34.0927|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result / 
+2025-03-03 21:35:34.0927|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints /Account/Logout, Route: {controller=Home}/{action=Index}/{id?} for address (returnUrl=[/],area=[Identity],page=[/Account/Logout]) 
+2025-03-03 21:35:34.0927|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template Identity/Account/Logout for /Account/Logout resulting in /Identity/Account/Logout and ?returnUrl=%2F 
+2025-03-03 21:35:34.0927|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints /Account/Logout, Route: {controller=Home}/{action=Index}/{id?} with result /Identity/Account/Logout?returnUrl=%2F 
+2025-03-03 21:35:34.0927|5|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing unprotect operation to key {63a8cd24-18ac-4b5c-9f55-41c027d7921f} with purposes ('C:\Users\aleks\source\repos\EShopApplication\Eshop.Web\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2025-03-03 21:35:34.0927|31|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing protect operation to key {63a8cd24-18ac-4b5c-9f55-41c027d7921f} with purposes ('C:\Users\aleks\source\repos\EShopApplication\Eshop.Web\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2025-03-03 21:35:34.0927|6|DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|An antiforgery cookie token was reused. 
+2025-03-03 21:35:34.0927|100|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address (area=[],action=[Privacy],controller=[Home]) 
+2025-03-03 21:35:34.0927|102|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and  
+2025-03-03 21:35:34.0927|105|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Home/Privacy 
+2025-03-03 21:35:34.0927|1|DEBUG|Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware|Response markup is scheduled to include Browser Link script injection. 
+2025-03-03 21:35:34.0927|1|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2025-03-03 21:35:34.0927|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending HEADERS frame for stream ID 7 with length 36 and flags END_HEADERS. 
+2025-03-03 21:35:34.0927|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 7 with length 5089 and flags NONE. 
+2025-03-03 21:35:34.0927|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" received WINDOW_UPDATE frame for stream ID 0 with length 4 and flags 0x0. 
+2025-03-03 21:35:34.0927|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 7 with length 440 and flags NONE. 
+2025-03-03 21:35:34.1124|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 39.6767ms. 
+2025-03-03 21:35:34.1124|6|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2025-03-03 21:35:34.1124|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:34.1124|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:34.1124|52|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:34.1124|53|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2025-03-03 21:35:34.1124|105|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Eshop.Web.Controllers.ProductsController.Index (Eshop.Web) in 2096.2832ms 
+2025-03-03 21:35:34.1124|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Eshop.Web.Controllers.ProductsController.Index (Eshop.Web)' 
+2025-03-03 21:35:34.1124|2|DEBUG|Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware|Response markup was updated to include Browser Link script injection. 
+2025-03-03 21:35:34.1124|2|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2025-03-03 21:35:34.1124|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 7 with length 0 and flags END_STREAM. 
+2025-03-03 21:35:34.1124|10407|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'ApplicationDbContext' disposed. 
+2025-03-03 21:35:34.1239|20007|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposing connection to database 'ShopDb' on server '(localdb)\mssqllocaldb'. 
+2025-03-03 21:35:34.1239|20008|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposed connection to database '' on server '' (2ms). 
+2025-03-03 21:35:34.1239|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7234/Products - 200 - text/html;+charset=utf-8 2143.8109ms 
+2025-03-03 21:35:34.1484|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" received HEADERS frame for stream ID 9 with length 80 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-03-03 21:35:34.1484|37|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" received HEADERS frame for stream ID 11 with length 62 and flags END_STREAM, END_HEADERS, PRIORITY. 
+2025-03-03 21:35:34.1484|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - - - 
+2025-03-03 21:35:34.1484|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7234/_vs/browserLink - - - 
+2025-03-03 21:35:34.1484|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending HEADERS frame for stream ID 9 with length 13 and flags END_HEADERS. 
+2025-03-03 21:35:34.1484|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 9 with length 13770 and flags NONE. 
+2025-03-03 21:35:34.1484|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 9 with length 0 and flags END_STREAM. 
+2025-03-03 21:35:34.1484|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7234/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript;+charset=utf-8 2.1132ms 
+2025-03-03 21:35:34.1616|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending HEADERS frame for stream ID 11 with length 96 and flags END_HEADERS. 
+2025-03-03 21:35:34.1616|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 9986 and flags NONE. 
+2025-03-03 21:35:34.1616|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-03-03 21:35:34.1616|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-03-03 21:35:34.1616|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-03-03 21:35:34.1616|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-03-03 21:35:34.1616|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-03-03 21:35:34.1616|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-03-03 21:35:34.1616|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-03-03 21:35:34.1616|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-03-03 21:35:34.1616|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-03-03 21:35:34.1616|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-03-03 21:35:34.1616|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-03-03 21:35:34.1717|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-03-03 21:35:34.1717|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-03-03 21:35:34.1717|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 10240 and flags NONE. 
+2025-03-03 21:35:34.1717|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 1806 and flags NONE. 
+2025-03-03 21:35:34.1717|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7234/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 26.7617ms 
+2025-03-03 21:35:34.1717|49|TRACE|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" sending DATA frame for stream ID 11 with length 0 and flags END_STREAM. 
+2025-03-03 21:35:37.3028|6|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HNAQIBN52P5S" received FIN. 
+2025-03-03 21:35:37.3028|48|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Http2|Connection id "0HNAQIBN52P5S" is closed. The last processed stream ID was 11. 
+2025-03-03 21:35:37.3028|7|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HNAQIBN52P5S" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2025-03-03 21:35:37.3152|62|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Http2|The connection queue processing loop for 0HNAQIBN52P5S completed. 
+2025-03-03 21:35:37.3152|2|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HNAQIBN52P5S" stopped. 

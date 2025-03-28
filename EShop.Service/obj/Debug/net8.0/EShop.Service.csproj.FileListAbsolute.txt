@@ -1,0 +1,17 @@
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\bin\Debug\net8.0\EShop.Service.deps.json
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\bin\Debug\net8.0\EShop.Service.dll
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\bin\Debug\net8.0\EShop.Service.pdb
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\obj\Debug\net8.0\EShop.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\obj\Debug\net8.0\EShop.Service.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\obj\Debug\net8.0\EShop.Service.AssemblyInfo.cs
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\obj\Debug\net8.0\EShop.Service.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\obj\Debug\net8.0\EShop.Service.dll
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\obj\Debug\net8.0\refint\EShop.Service.dll
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\obj\Debug\net8.0\EShop.Service.pdb
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\obj\Debug\net8.0\ref\EShop.Service.dll
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\obj\Debug\net8.0\EShop.Service.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\bin\Debug\net8.0\EShop.Repository.dll
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\bin\Debug\net8.0\EShop.Repository.pdb
+C:\Users\aleks\source\repos\EShopApplication\EShop.Service\obj\Debug\net8.0\EShop.Se.2AB3CF61.Up2Date

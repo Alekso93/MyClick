@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Repository.deps.json
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Repository.dll
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Repository.pdb
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfo.cs
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Re.5AE75352.Up2Date
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.dll
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\obj\Debug\net8.0\refint\EShop.Repository.dll
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.pdb
+C:\Users\aleks\source\repos\EShopApplication\EShop.Repository\obj\Debug\net8.0\ref\EShop.Repository.dll
